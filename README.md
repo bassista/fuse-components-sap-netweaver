@@ -6,6 +6,15 @@ This demo shows how to use the SAP Netweaver Gateway Camel Component to connect 
 Quickstart
 ----------
 
+Step 1 - Download the Project from JBoss Demo Central - https://github.com/jbossdemocentral/fuse-components-sap-netweaver  
+
+Step 2 - Import the Project into JBDS 
+
+Step 3 - Update the Username and Password in the camel-context.xml  
+
+Step 4 - Right click on camel-context.xml and run as 'Local Camel Context'  
+
+Step 5 - Notice the Response Flight Information from SAP in the console.  
 
 Supporting Articles
 -------------------
